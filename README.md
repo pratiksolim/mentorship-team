@@ -1,1 +1,3 @@
-# mentorship-team
+# Node.js Mentorship Program
+
+I enjoy exploring the newer projects and inner workings of the systems. And since Node.js has been my go to stack for development, I always had a curiosity about how development and planning goes in working on such an extensive project. So I feel this mentorship would be a great opportunity to learn about these things while also contributing to the tech that got me into the backend development.
